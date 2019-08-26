@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.beamofsoul.cloud.DistributedAutomaticTaskingServerConfiguration,\
+com.beamofsoul.cloud.DistributedAutomaticTaskingClientConfiguration
