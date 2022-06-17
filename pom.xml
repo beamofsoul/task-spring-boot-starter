@@ -10,7 +10,7 @@
 	<name>task-spring-boot-starter</name>
 
 	<properties>
-		<fastjson.version>1.2.39</fastjson.version>
+		<fastjson.version>1.2.83</fastjson.version>
 		<spring-boot.version>2.1.7.RELEASE</spring-boot.version>
 	</properties>
 
